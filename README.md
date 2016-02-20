@@ -9,8 +9,11 @@ A project to update iUi to modern versions.
 </br>
 </br> 
 <b>Mac And Linux</b> 
-1.) Extract ModerniUi-iOS in a directory with iUi 0.4.1. 
+</br>
+1.) Extract ModerniUi-iOS in a directory with iUi 0.4.1.
+</br> 
 2.) Make sure you do not put ModerniUi-iOS in a folder.
+</br>
 3.) Run the installer.
 </br>
 For an example see http://morjiai.ph.tn/app/iui-0.4.1/web-app/#_Morjiai 
