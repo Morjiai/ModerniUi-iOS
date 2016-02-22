@@ -6,8 +6,8 @@ rm  iui-0.4.1/web-app/css/iui-panel-list.css;
 rm  iui-0.4.1/web-app/iui/iui.css;
 echo "Upgrading iUi Framework."; 
 mv iui.js iui-0.4.1/web-app/iui/;
-mv pkgs.css iui-0.4.1/web-app/css/;
 mv iui.css iui-0.4.1/web-app/iui/;
+mv iui-panel-list.css iui-0.4.1/web-app/css/iui-panel-list.css;
 read -r -p "Would you like to remove tutorials, samples and docs? [y/N] " response
 case $response in
     [yY][eE][sS]|[yY]) 
