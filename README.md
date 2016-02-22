@@ -1,5 +1,7 @@
 # ModerniUi-iOS
-A project to update iUi to modern versions. 
+A project to update iUI to modern versions. 
+</br>
+NOTE: This is not a fork of iUI, you will have to have <b>iUI 0.4.1.</b>
 </br> 
 <b>Windows</b> 
 </br> 
